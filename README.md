@@ -2,7 +2,7 @@
  All League of Legends models in .glb - includes animations and textures directly extracted from League of Legends files
 
 ![GitHub License](https://img.shields.io/github/license/santoryo/leaguemodelsglb)
-![Patch](https://img.shields.io/badge/PATCH-WIP-red)
+![Patch]([https://img.shields.io/badge/PATCH-WIP-red](https://img.shields.io/badge/dynamic/json?label=PATCH&query=$.patch&url=https://raw.githubusercontent.com/Santoryo/LeagueModelsGLB/main/patch.json))
 
 
 ### Disclaimer
